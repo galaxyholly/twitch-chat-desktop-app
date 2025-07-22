@@ -3,7 +3,8 @@
 
 Built as an exploration into real-time applications and concurrent programming, this desktop monitor demonstrates async programming patterns with GUI frameworks.
 
-<img width="375" height="668" alt="image" src="https://github.com/user-attachments/assets/e6311ede-f068-488a-9b51-de32f039a1d3" />
+<img width="375" height="668" alt="image" src="https://github.com/user-attachments/assets/a8886d45-01d7-4a81-8a2f-64d97ec44049" />
+
 
 ## Key Features
 
